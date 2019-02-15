@@ -1,5 +1,5 @@
 pipeline{
-node any
+agent any
 stages{
 stage('Batch_Execution')
 {
